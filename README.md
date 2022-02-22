@@ -15,10 +15,9 @@ Getting to chose your favorite bookmark through fuzzy finding and with the rofi 
 ## Installation
 
 ```bash
+$ git clone https://github.com/TypicalAM/Bookmark-Search
 $ pip3 install lz4
-
-$ git clone
-$ cd 
+$ cd Bookmark-Search
 $ chmod +x get_bookmarks.sh
 $ ./get_bookmarks.sh
 ```
