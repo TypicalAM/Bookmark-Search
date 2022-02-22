@@ -41,4 +41,4 @@ Firefox uses the file `places.sqlite` to store it's bookmarks (and many more thi
 
 ## Presentation
 
-![gif](https://github.com/TypicalAM/Bookmark-Search/blob/main/main.py)
+![gif](https://github.com/TypicalAM/Bookmark-Search/blob/main/presentation.gif)
