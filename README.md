@@ -15,16 +15,16 @@ Getting to chose your favorite bookmark through fuzzy finding and with the rofi 
 ## Installation
 
 ```bash
-$ git clone https://github.com/TypicalAM/Bookmark-Search
-$ pip3 install lz4
-$ cd Bookmark-Search
-$ chmod +x get_bookmarks.sh
-$ ./get_bookmarks.sh
+git clone https://github.com/TypicalAM/Bookmark-Search
+pip3 install lz4
+cd Bookmark-Search
+chmod +x get_bookmarks.sh
+./get_bookmarks.sh
 ```
 
 You can also create a `.desktop` file to be able to access the app through your favorite application launcher. An example of that would be the follwing file located in `~/.local/share/applications/bookmarks.desktop`:
 
-```bash
+```
 [Desktop Entry]
 Encoding=UTF-8
 Version=1.0
