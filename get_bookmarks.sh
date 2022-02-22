@@ -34,4 +34,5 @@ text_data="$(python3 main.py $bookmark_file)"
 echof info "Displaying results"
 options=$(echo $text_data | grep -o '{[^}]*}' | sed -n $SED_EXPRESSION)
 chosen=$(echo -e "$options"|$ROFI_COMMAND|awk -F'[][]' '{print $2}')
+echof info "Opening the link"
 firefox "$chosen"

@@ -17,6 +17,8 @@ Getting to chose your favorite bookmark through fuzzy finding and with the rofi 
 ```bash
 $ pip3 install lz4
 
+$ git clone
+$ cd 
 $ chmod +x get_bookmarks.sh
 $ ./get_bookmarks.sh
 ```
