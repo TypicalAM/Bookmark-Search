@@ -39,6 +39,6 @@ Icon=search
 
 Firefox uses the file `places.sqlite` to store it's bookmarks (and many more things). Because of that lock we are forced to use other means of getting the user's bookmarks from the browser. Apart from the built-ind database, firefox also does daily backups of the bookmarks - we can use them as the base for retrieving data.
 
-## Images
+## Presentation
 
-Image here
+![gif](https://github.com/TypicalAM/Bookmark-Search/blob/main/main.py)
